@@ -1,0 +1,1 @@
+Asynctask、ListView、Lru、bitmap等应用，一个简单的新闻条目加载用Handler&Asynctask两种方式实现，并对listview进行优化。
